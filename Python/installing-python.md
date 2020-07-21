@@ -52,7 +52,7 @@ python -m pip install matplotlib
 
 python -m pip install mpld3
 ```
-This screenshot will give you an idea of what this looks like:
+This screenshot will give you an idea of what you should see when installing the matplotlib library:
 
 ![Installing Python libraries from the command prompt](https://github.com/RevealBi/Samples-Dashboards/blob/master/Python/images/install-library.png)
 
