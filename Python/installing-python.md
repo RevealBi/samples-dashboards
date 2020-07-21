@@ -16,12 +16,12 @@ https://www.python.org/downloads/windows/
 After you've successfully downloaded, run the installation package.  When you get to this screen, make sure to select the "Add Python to Path" option.  This will make running the Python command prompt and installing libraries easier.
 
 
-![Python installer screen #1](Install-1.png)
+![Python installer screen #1](https://github.com/RevealBi/Samples-Dashboards/blob/master/Python/images/Install-1.png)
 
 
 Once you click the Next button, you'll see the "Customize install location" option. Since this is presumably your development machine and you'll be experimenting with Python, I recommend changing the path to something easy to remember and get to, like "C:\Python38".  This will make it easy to find Python tools, and to set the path in Reveal Desktop.   
 
-![Python installer screen #1](Install-2.png)
+![Python installer screen #1](https://github.com/RevealBi/Samples-Dashboards/blob/master/Python/images/Install-2.png)
 
 ## Installing Python Libraries
 
@@ -54,7 +54,7 @@ python -m pip install mpld3
 ```
 This screenshot will give you an idea of what this looks like:
 
-![Installing Python libraries from the command prompt](install-library.png)
+![Installing Python libraries from the command prompt](https://github.com/RevealBi/Samples-Dashboards/blob/master/Python/images/install-library.png)
 
 At this point, you are ready to use Python with the Reveal WPF Desktop client or Reveal WPF Desktop SDK.
 
